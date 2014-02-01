@@ -4,6 +4,8 @@
 
 # Intro to Ruby & Rails (IMS 422/522)
 
+We're here to understand the purpose of server-side scripting, learn the basics of Ruby as an object-oriented language and use Ruby on Rails to build web applications.
+
 01. [Lesson 1: What is Ruby?](http://github.com/uhlenbrock/MU-IMS-422-522/blob/master/lessons/01.md)
 02. Lesson 2
 03. Lesson 3

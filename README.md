@@ -7,7 +7,7 @@
 We're here to understand the purpose of server-side scripting, learn the basics of Ruby as an object-oriented language and use Ruby on Rails to build web applications.
 
 01. [Lesson 1: What is Ruby?](http://github.com/uhlenbrock/MU-IMS-422-522/blob/master/lessons/01.md)
-02. Lesson 2
+02. [Lesson 2: Ruby Methods, Classes & Nothingness](http://github.com/uhlenbrock/MU-IMS-422-522/blob/master/lessons/02.md)
 03. Lesson 3
 04. Lesson 4
 05. Lesson 5

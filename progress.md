@@ -6,13 +6,12 @@ You are to build an online ordering system for a restaurant which offers both ad
 
 As an unauthenticated user, I can:
 
-* [x] Browse all items
-- [ ] Browse items by category
+- [x] Browse all items
+- [x] Browse items by category
 - [ ] Add an item to my cart
 - [ ] View my cart
 - [ ] Remove an item from my cart
-- [ ] Increase the quantity of a item in my cart
-- [ ] Log in, which should _not_ clear the cart
+- [x] Log in, which should _not_ clear the cart
 
 Unauthenticated users are *NOT* allowed to:
 
@@ -25,11 +24,11 @@ Unauthenticated users are *NOT* allowed to:
 
 Allowed To:
 
-- [ ] do everything Unauthenticated Users can do except "log in"
-- [ ] log out
+- [x] do everything Unauthenticated Users can do except "log in"
+- [x] log out
 - [ ] view their past orders with links to display each order
 - [ ] on that order display page there are:
-  - [ ] items with quantity ordered and line-item subtotals
+  - [ ] items with line-item subtotals
   - [ ] links to each item description page
   - [ ] the current status of the order
   - [ ] order total price
@@ -49,10 +48,10 @@ Allowed To:
 
 As an authenticated Administrator, I can:
 
-- [ ] Create item listings including a name, description, price, and a photo
-- [ ] Modify existing items' name, description, price, and photo
-- [ ] Create named categories for items (eg: "Small Plates")
-- [ ] Assign items to categories or remove them from categories. Products can belong to more than one category.
+- [x] Create item listings including a name, description, price, and a photo
+- [x] Modify existing items' name, description, price, and photo
+- [x] Create named categories for items (eg: "Small Plates")
+- [x] Assign items to categories or remove them from categories. Products can belong to one category.
 - [ ] Retire a item from being sold, which hides it from browsing by any non-administrator
 
 As an Administrator, I can also view an order "dashboard" where I can:
@@ -70,15 +69,14 @@ As an Administrator, I can also view an order "dashboard" where I can:
   - [ ] Purchaser full name and email address
   - [ ] For each item on the order:
       - [ ] Name with link to item page
-      - [ ] Quantity
       - [ ] Price
       - [ ] Line item subtotal
   - [ ] Total for the order
   - [ ] Status of the order
 - [ ] Update an individual order
-  - [ ] View and edit orders; may change quantity or remove items from orders with the status of pending or paid
+  - [ ] View and edit orders; remove items from orders with the status of pending or paid
   - [ ] Change the status of an order according to the rules as outlined above
 
 *NOT* allowed to:
 
-* Modify any personal data aside from their own
+- [ ] Modify any personal data aside from their own

@@ -8,17 +8,18 @@ As an unauthenticated user, I can:
 
 - [x] Browse all items
 - [x] Browse items by category
-- [ ] Add an item to my cart
-- [ ] View my cart
-- [ ] Remove an item from my cart
+- [x] Add an item to my cart
+- [x] View my cart
+- [x] Remove an item from my cart
 - [x] Log in, which should _not_ clear the cart
 
 Unauthenticated users are *NOT* allowed to:
 
-- [ ] View another user's private data (such as current order, etc.)
+- [x] View another user's private data (such as current order, etc.)
 - [ ] Checkout (until they log in)
-- [ ] View the administrator screens or use administrator functionality
-- [ ] Make themselves an administrator
+- [x] View the administrator screens or use administrator functionality
+- [x] Make themselves an administrator
+- [ ] See retired items in the menu
 
 ### Authenticated Non-Administrators
 
@@ -33,16 +34,16 @@ Allowed To:
   - [ ] the current status of the order
   - [ ] order total price
   - [ ] date/time order was submitted
-  - [ ] if completed or cancelled, display a timestamp when that action took place
   - [ ] if any item is retired from the menu:
      - [ ] they can still access the item page
      - [ ] they cannot add it to a new cart
 
 *NOT* allowed to:
 
-- [ ] view another user's private data (such as current order, etc.)
-- [ ] view the administrator screens or use administrator functionality
-- [ ] make themselves an administrator
+- [x] view another user's private data (such as current order, etc.)
+- [x] view the administrator screens or use administrator functionality
+- [x] make themselves an administrator
+- [ ] See retired items in the menu
 
 ### Administrators
 
@@ -76,7 +77,3 @@ As an Administrator, I can also view an order "dashboard" where I can:
 - [ ] Update an individual order
   - [ ] View and edit orders; remove items from orders with the status of pending or paid
   - [ ] Change the status of an order according to the rules as outlined above
-
-*NOT* allowed to:
-
-- [ ] Modify any personal data aside from their own

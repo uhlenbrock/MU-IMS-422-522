@@ -19,6 +19,10 @@ We're here to understand the purpose of server-side scripting, learn the basics 
 11. Lesson 11
 12. Lesson 12
 
+## Grading
+
+Your grade will be based on the class project. 60%: Your code meets the requirements set out in the weekly assignments, 40% Your code follows the guidelines discussed in class, and your git history shows progress along the way.
+
 ## Getting Started
 
 Please sign up for accounts on the following (free) services:

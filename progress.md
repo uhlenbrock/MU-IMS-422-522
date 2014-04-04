@@ -16,7 +16,7 @@ As an unauthenticated user, I can:
 Unauthenticated users are *NOT* allowed to:
 
 - [x] View another user's private data (such as current order, etc.)
-- [ ] Checkout (until they log in)
+- [x] Checkout (until they log in)
 - [x] View the administrator screens or use administrator functionality
 - [x] Make themselves an administrator
 - [ ] See retired items in the menu
@@ -27,13 +27,14 @@ Allowed To:
 
 - [x] do everything Unauthenticated Users can do except "log in"
 - [x] log out
-- [ ] view their past orders with links to display each order
-- [ ] on that order display page there are:
-  - [ ] items with line-item subtotals
-  - [ ] links to each item description page
-  - [ ] the current status of the order
-  - [ ] order total price
-  - [ ] date/time order was submitted
+- [x] view their past orders with links to display each order
+- [x] on that order display page there are:
+  - [x] items with line-item subtotals
+  - [x] links to each item description page
+  - [x] the current status of the order
+  - [x] order total price
+  - [x] date/time order was submitted
+  - [x] date/time order is ready for pickup
   - [ ] if any item is retired from the menu:
      - [ ] they can still access the item page
      - [ ] they cannot add it to a new cart
@@ -59,21 +60,21 @@ As an Administrator, I can also view an order "dashboard" where I can:
 
 - [ ] See a listing of all orders with:
   - [ ] the total number of orders by status
-  - [ ] links for each individual order
+  - [x] links for each individual order
   - [ ] filter orders to display by status type (for statuses "ordered", "paid", "cancelled", "completed")
   - [ ] link to transition to a different status:
       - [ ] link to "cancel" individual orders which are currently "ordered" or "paid"
       - [ ] link to "mark as paid" orders which are "ordered"
       - [ ] link to "mark as completed" individual orders which are currently "paid"
-- [ ] Access details of an individual order, including:
-  - [ ] Order date and time
-  - [ ] Purchaser full name and email address
-  - [ ] For each item on the order:
-      - [ ] Name with link to item page
-      - [ ] Price
-      - [ ] Line item subtotal
-  - [ ] Total for the order
-  - [ ] Status of the order
+- [x] Access details of an individual order, including:
+  - [x] Order date and time
+  - [x] Purchaser full name and email address
+  - [x] For each item on the order:
+      - [x] Name with link to item page
+      - [x] Price
+      - [x] Line item subtotal
+  - [x] Total for the order
+  - [x] Status of the order
 - [ ] Update an individual order
   - [ ] View and edit orders; remove items from orders with the status of pending or paid
-  - [ ] Change the status of an order according to the rules as outlined above
+  - [x] Change the status of an order according to the rules as outlined above

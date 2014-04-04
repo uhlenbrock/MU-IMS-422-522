@@ -76,5 +76,5 @@ As an Administrator, I can also view an order "dashboard" where I can:
   - [x] Total for the order
   - [x] Status of the order
 - [x] Update an individual order
-  - [x] View and edit orders; remove items from orders with the status of pending or paid
+  - [x] View and edit orders; remove items from orders with the status of ordered or paid
   - [x] Change the status of an order according to the rules as outlined above

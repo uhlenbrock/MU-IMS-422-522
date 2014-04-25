@@ -16,7 +16,7 @@ We're here to understand the purpose of server-side scripting, learn the basics 
 08. [Lesson  8: Dinner Dash VI](http://github.com/uhlenbrock/MU-IMS-422-522/blob/master/lessons/08.md)
 09. [Lesson  9: Dinner Dash VII](http://github.com/uhlenbrock/MU-IMS-422-522/blob/master/lessons/09.md)
 10. [Lesson 10: Dinner Dash VIII](http://github.com/uhlenbrock/MU-IMS-422-522/blob/master/lessons/10.md)
-11. Lesson 11
+11. [Lesson 11: Dinner Dash IX](http://github.com/uhlenbrock/MU-IMS-422-522/blob/master/lessons/11.md)
 12. Lesson 12
 
 ## Grading

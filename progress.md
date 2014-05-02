@@ -55,8 +55,8 @@ As an authenticated Administrator, I can:
 - [x] Create named categories for items (eg: "Small Plates")
 - [x] Assign items to categories or remove them from categories. Products can belong to one category.
 - [x] Retire a item from being sold, which hides it from browsing by any non-administrator
-- [ ] Create savings as a percentage discount on items
-- [ ] Assign savings to items
+- [x] Create savings as a percentage discount on items
+- [x] Assign savings to items
 
 As an Administrator, I can also view an order "dashboard" where I can:
 
